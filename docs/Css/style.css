@@ -56,6 +56,9 @@ HTML body {
 	height: 350px;
 	--display: inline-block;
 	position: none;
+	-webkit-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
 }
 
 #colorBlindSlides{
@@ -65,6 +68,9 @@ HTML body {
 	--display: inline-block;
 	margin-top: 50px;
 	position: none;
+	-webkit-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
 }
 
 #ContentScroll{
@@ -76,6 +82,9 @@ HTML body {
 	background-color: #CCCCCC;
 	float: left;
 	display: inline-block;
+	-webkit-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
 }
 
 #footer{
