@@ -119,7 +119,7 @@ li a:hover {
 
 #footer{
 	width: 100%;
-	height: 200px;
+	height: 150px;
 	background-color: green;
 	display: inline-block;
 }
@@ -141,7 +141,7 @@ li a:hover {
   float: left;
   width: 33.33%;
   text-align: center;
-  margin-top: 5px;
+  margin-top: 10px;
 }
 
 /* Clear floats after the columns */
