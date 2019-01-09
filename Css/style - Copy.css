@@ -1,0 +1,66 @@
+HTML body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Slabo 27px';
+}
+
+#headBar{
+	width: 100%;
+	height:50px;
+	position: fixed;
+}
+
+#Block{
+	width: 100%;
+	height:20%;
+	background-color: #E51B24;
+	display: inline-block;
+}
+
+#SpanBar{
+	width:100%;
+	height:80%;
+	background-color: #1D1D1D;
+	display: inline-block;
+}
+
+#sidesection{
+	width: 20%;
+	height: auto;
+	margin-top: 100px;
+	--background-color: #3FB6CC;
+	float: right;
+	margin-right: 10%;
+	margin-left: 70%;
+	display: inline-block;
+	position: fixed;
+	
+}
+
+#navBox{
+	width: 100%;
+	background-color: #CCCCCC;
+	height: 350px;
+	--display: inline-block;
+	position: none;
+}
+
+#colorBlindSlides{
+	width: 100%;
+	height: 300px;
+	background-color: #CCCCCC;
+	--display: inline-block;
+	margin-top: 50px;
+	position: none;
+}
+
+#ContentScroll{
+	width:60%;
+	height:4000px;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 100px;
+	background-color: #CCCCCC;
+	float: left;
+	display: inline-block;
+}
