@@ -60,7 +60,31 @@ HTML body {
 	-webkit-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
 	-moz-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
 	box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+	text-align: center;
+	font-size: 30px;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: auto;
+  background-color: #CCCCCC;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #F8F8F8;
+  color: #1D1D1D;
+}
+
 
 #colorBlindSlides{
 	width: 100%;
@@ -86,6 +110,11 @@ HTML body {
 	-webkit-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
 	-moz-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
 	box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+}
+
+#title{
+	text-align: center;
+	color: #1D1D1D;
 }
 
 #footer{
