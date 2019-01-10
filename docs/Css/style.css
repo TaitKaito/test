@@ -100,7 +100,8 @@ li a:hover {
 
 #ContentScroll{
 	width:60%;
-	height:100%;
+	min-height: 100%;
+	height: auto;
 	margin-left: 5%;
 	margin-right: 5%;
 	margin-top: 100px;
@@ -136,8 +137,6 @@ li a:hover {
 	height: auto;
 	margin-left: 1%;
 	margin-right: 1%;
-	border: solid 1px;
-	border-color: #1D1D1D;
 }
 
 #tLeft{
